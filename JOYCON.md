@@ -68,7 +68,7 @@ Four small blocks in `padawan360_body_mega_i2c.ino`, all behind `#ifdef`: the in
 | `JoyConPairing.h` | Pairing without re-uploading, and reconnecting by button. |
 | `DroidController.h` | The controller interface `JoyConController` is built on. |
 
-These Joy-Con files are shared with [ShadowMD Lite](https://github.com/Fernando-Beltran/ShadowMDLite) and the [Shadow MD fork](https://github.com/Fernando-Beltran/SHADOW_MD_EEBEL), where the Joy-Con support was first written and bench-tested.
+These Joy-Con files are shared with [ShadowMD Lite](https://github.com/BeskarCode/ShadowMDLite) and the [Shadow MD fork](https://github.com/BeskarCode/SHADOW_MD_EEBEL), where the Joy-Con support was first written and bench-tested.
 
 ## Bench test first
 
